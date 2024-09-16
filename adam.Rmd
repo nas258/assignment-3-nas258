@@ -1,0 +1,16 @@
+---
+title: "Nazir (Adam) Sharifi"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About me
+- I am an M.S./Ph.D. Student in the Soil and Crops Section working under Dr. Matthew Ryan in the Sustainable Cropping Systems Lab  
+- My research focuses on optimizing organic no-till corn production through utilizing cover crops, optimal nitrogen rates, effective weed management, and adequate crop density 
+
+- Outside of research, I am a Graduate Student Coordinator for the Ronald E. McNair Postbaccalaureate Achievement Program that aims to increase the attainment of Ph.D. degrees by students underrepresented in academia and the professoriate.
+
+

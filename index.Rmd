@@ -1,0 +1,14 @@
+---
+title: "Assignment 3 Team"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Meet the Team!  
+**Eric Youngerman**: <https://github.com/ericyoungerman>  
+**Nazir (Adam) Sharifi**: <https://github.com/nas258>
+
+![Adam's first day in the field for graduate school](C:/Users/adamp/OneDrive/Pictures/Field photos/IMG_3787.jpg)
