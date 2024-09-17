@@ -11,4 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 **Eric Youngerman**: <https://github.com/ericyoungerman>  
 **Nazir (Adam) Sharifi**: <https://github.com/nas258>
 
-![Adam's first day in the field for graduate school](C:/Users/adamp/OneDrive/Pictures/Field photos/IMG_3787.jpg)
+![Adam's first day in the field for graduate school](https://blogs.cornell.edu/scslab/files/2024/01/image1-1-edited.jpeg)
+
